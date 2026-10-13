@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b21c70cc-2f8f-49bd-8627-4d57f5035533" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Vandrbilt-library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/core/index.html" afterDir="false" />
+    <list default="true" id="b21c70cc-2f8f-49bd-8627-4d57f5035533" name="Changes" comment="first upload,uploaded index page and other">
+      <change afterPath="$PROJECT_DIR$/studentlogin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentlogin/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentlogin/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentlogin/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentlogin/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentlogin/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentlogin/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/studentlogin/st-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/core/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/core/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tanisha-patel77&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tanisha-patel77/Vandrbilt-library.git&quot;,
+    &quot;accountId&quot;: &quot;52dfb2bf-aee8-47ec-b352-421fb5e55fa2&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -102,10 +118,35 @@
       <updated>1791918628391</updated>
       <workItem from="1791918629418" duration="982000" />
       <workItem from="1791919635347" duration="8000" />
+      <workItem from="1791919654775" duration="1486000" />
+      <workItem from="1791921907600" duration="69000" />
+      <workItem from="1791922117896" duration="76000" />
     </task>
+    <task id="LOCAL-00001" summary="first upload,uploaded index page">
+      <option name="closed" value="true" />
+      <created>1791919720908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791919720908</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first upload,uploaded index page and other">
+      <option name="closed" value="true" />
+      <created>1791921210868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791921210868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first upload,uploaded index page" />
+    <MESSAGE value="first upload,uploaded index page and other" />
+    <option name="LAST_COMMIT_MESSAGE" value="first upload,uploaded index page and other" />
   </component>
 </project>
