@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b21c70cc-2f8f-49bd-8627-4d57f5035533" name="Changes" comment="first upload,uploaded index page and other">
-      <change afterPath="$PROJECT_DIR$/studentlogin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentlogin/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentlogin/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentlogin/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentlogin/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentlogin/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentlogin/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/studentlogin/st-login.html" afterDir="false" />
+    <list default="true" id="b21c70cc-2f8f-49bd-8627-4d57f5035533" name="Changes" comment="first upload,uploaded index page and other and also the settings one">
+      <change afterPath="$PROJECT_DIR$/studentlogin/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/core/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/core/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vandrbilt_library/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/vandrbilt_library/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -121,6 +115,8 @@
       <workItem from="1791919654775" duration="1486000" />
       <workItem from="1791921907600" duration="69000" />
       <workItem from="1791922117896" duration="76000" />
+      <workItem from="1791922204068" duration="313000" />
+      <workItem from="1791922535929" duration="352000" />
     </task>
     <task id="LOCAL-00001" summary="first upload,uploaded index page">
       <option name="closed" value="true" />
@@ -138,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791921210868</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first upload,uploaded index page and other and also the settings one">
+      <option name="closed" value="true" />
+      <created>1791922382236</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791922382236</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first upload,uploaded index page" />
     <MESSAGE value="first upload,uploaded index page and other" />
-    <option name="LAST_COMMIT_MESSAGE" value="first upload,uploaded index page and other" />
+    <MESSAGE value="first upload,uploaded index page and other and also the settings one" />
+    <option name="LAST_COMMIT_MESSAGE" value="first upload,uploaded index page and other and also the settings one" />
   </component>
 </project>
